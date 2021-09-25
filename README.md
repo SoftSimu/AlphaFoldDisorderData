@@ -1,6 +1,6 @@
 # Proteins, structures and data from the manuscript
 
-**AlphaFold2:  A role for disordered proteinprediction?
+**AlphaFold2:  A role for disordered protein prediction?
 *by Carter J. Wilson, Wing-Yiu Choy, and Mikko Karttunen***
 
 ## Data organization ##
