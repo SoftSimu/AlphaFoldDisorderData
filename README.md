@@ -4,7 +4,7 @@
 *by Carter J. Wilson, Wing-Yiu Choy, and Mikko Karttunen***
 
 ## Data organization ##
-There is both a folder containing the PDB structures from AlphaFold2 used in this work, and a combined.dat file that contains all the raw predictions and sequence metrics. The organization of that file is as follows:
+There is a folder (structures/) containing the PDB structures from AlphaFold2 used in this work, the names of these files corresponds to their UniProt IDs. In addition there is a file (combined.dat) that contains all the raw predictions and sequence metrics. The organization of that file is as follows:
 
 1. \>UniProtID\|DisProtID
 2. Amino acid sequence
