@@ -34,7 +34,5 @@ There is a folder (structures/) containing the PDB structures from AlphaFold2 us
 26. SPOT-Disorder-S binary prediction
 27. SPOT-Disorder2 disorder score
 28. SPOT-Disorder2 binary prediction
-29. \>UniProtID\|DisProtID
 
-...
-
+And so on for all the proteins considered. Relevant data can be parsed by considering only the line of interest and every 28th line after that.
