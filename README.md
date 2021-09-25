@@ -3,7 +3,8 @@
 **AlphaFold2:  A role for disordered protein prediction?
 *by Carter J. Wilson, Wing-Yiu Choy, and Mikko Karttunen***
 
-**Manuscript at:** [bioarxiv](). Supplementary information: [SI]()
+- **Manuscript at:** [bioarxiv](). 
+- Supplementary information: [SI]()
 
 ## Data organization ##
 There is a folder (structures/) containing the PDB structures from AlphaFold2 used in this work, the names of these files corresponds to their UniProt IDs. In addition there is a file (combined.dat) that contains all the raw predictions and sequence metrics. The organization of that file is as follows:
