@@ -6,7 +6,7 @@
 ## Data organization ##
 There is both a folder containing the PDB structures from AlphaFold2 used in this work, and a combined.dat file that contains all the raw predictions and sequence metrics. The organization of that file is as follows:
 
-1. >UniProtID|DisProtID
+1. \>UniProtID\|DisProtID
 2. Amino acid sequence
 3. DisProt annotation (1 = disordered, 0 = ordered)
 4. DisProt-PDB annotation (1 = disordered, 0 = ordered, - = no data)
