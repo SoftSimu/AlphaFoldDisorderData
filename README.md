@@ -7,7 +7,7 @@
 - Supplementary information: [SI]()
 
 ## Data organization ##
-The folder ([structures/](./structures)) contains the [PDB structures from AlphaFold2](https://alphafold.ebi.ac.uk/) used in this work, the names of these files corresponds to their [UniProt](https://www.uniprot.org/) IDs. 
+The folder ([structures/](./structures)) contains the [PDB structures from AlphaFold2](https://alphafold.ebi.ac.uk/) used in this work, the names of these files correspond to their [UniProt](https://www.uniprot.org/) IDs. 
 
 The file ([combined.dat](./combined.dat)) contains all the raw predictions and sequence metrics. The organization of that file is as follows:
 
