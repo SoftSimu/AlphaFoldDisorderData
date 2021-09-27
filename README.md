@@ -3,8 +3,8 @@
 **AlphaFold2:  A role for disordered protein prediction?
 *by Carter J. Wilson, Wing-Yiu Choy, and Mikko Karttunen***
 
-- **Manuscript at:** [bioarxiv](). 
-- Supplementary information: [SI]()
+<!-- - **Manuscript at:** [bioarxiv](). 
+-->
 
 ## Data organization ##
 The folder ([structures/](./structures)) contains the [PDB structures from AlphaFold2](https://alphafold.ebi.ac.uk/) used in this work, the names of these files correspond to their [UniProt](https://www.uniprot.org/) IDs. 
