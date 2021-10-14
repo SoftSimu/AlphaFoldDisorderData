@@ -15,7 +15,7 @@ The file ([combined.dat](./combined.dat)) contains all the raw predictions and s
 3. DisProt-PDB annotation (1 = disordered, 0 = ordered, - = no data)
 4. DisProt annotation (1 = disordered, 0 = ordered)
 6. DSSP assignment (H = a-helix, G = 310 helix, I = pi-helix, T = H-bond turn, E = B-strand, B = B-bridge, S = bend, - = coil)
-7. PAE assignment ('|' are used to seperate values for each amino acid)
+7. pLDDT assignment ('|' are used to seperate values for each amino acid)
 8. AUCpreD disorder score
 9. AUCpreD binary prediction
 10. AUCpreD-np disorder score
